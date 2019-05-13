@@ -1,3 +1,3 @@
-# Code Branch
+# Front end
 
-The actual code for the project
+The code for the user interaction
